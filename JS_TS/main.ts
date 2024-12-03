@@ -1,3 +1,1 @@
-const a : string = "I am Shardendu Mishra";
-
-console.log(a);
+console.log("I Am Shardendu Mishra")
